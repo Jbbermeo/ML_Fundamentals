@@ -14,7 +14,7 @@ Polynomial Regression is an extension of Linear Regression that models the relat
 ### 🔹 Polynomial Regression Equation
 For a simple **second-degree** polynomial, the equation is:
 
-$ y = \beta_0 + \beta_1 x + \beta_2 x^2 + \epsilon$
+$y = \beta_0 + \beta_1 x + \beta_2 x^2 + \epsilon$
 
 For a general **n-degree polynomial**, it is:
 

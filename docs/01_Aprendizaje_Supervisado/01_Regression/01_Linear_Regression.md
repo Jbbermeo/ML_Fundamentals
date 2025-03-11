@@ -53,7 +53,7 @@ In matrix form:
 ### 🔹 Derivation of the Normal Equation
 To find the optimal parameters $( \boldsymbol{\beta})$, we minimize $( J(\boldsymbol{\beta}))$ by taking its derivative with respect to $( \boldsymbol{\beta})$ and setting it to zero:
 
-$ \frac{d}{d \boldsymbol{\beta}} J(\boldsymbol{\beta}) = \frac{d}{d \boldsymbol{\beta}} \frac{1}{m} (\mathbf{y} - \mathbf{X} \boldsymbol{\beta})^T (\mathbf{y} - \mathbf{X} \boldsymbol{\beta}) = 0$
+$\frac{d}{d \boldsymbol{\beta}} J(\boldsymbol{\beta}) = \frac{d}{d \boldsymbol{\beta}} \frac{1}{m} (\mathbf{y} - \mathbf{X} \boldsymbol{\beta})^T (\mathbf{y} - \mathbf{X} \boldsymbol{\beta}) = 0$
 
 Expanding the derivative:
 
