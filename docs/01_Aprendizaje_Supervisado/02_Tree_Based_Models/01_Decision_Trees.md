@@ -151,7 +151,7 @@ Since both leaf nodes contain only one class, the tree stops growing here.
 ## 📌 Conclusion
 Decision Trees are a powerful yet simple model for classification and regression tasks. They are widely used in **finance, healthcare, and business analytics** due to their interpretability. However, they require pruning or ensemble methods (like Random Forest) to prevent overfitting.
 
-👉 **Next Steps:** Implement Decision Trees in Python and compare them with ensemble methods like Random Forest!
+👉 **Next Steps:** Implement Decision Trees in [Python](/notebooks/01_Aprendizaje_Supervisado/02_Tree_Based_Models/01_Decision_Trees.ipynb)!
 
 
 
