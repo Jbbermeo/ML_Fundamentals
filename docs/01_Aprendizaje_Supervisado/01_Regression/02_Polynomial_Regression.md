@@ -34,15 +34,16 @@ Using matrix notation, we define:
 where:
 - $( \mathbf{X} )$ is the design matrix containing polynomial terms:
 
-    $$
-    \mathbf{X} =
-    \begin{bmatrix} 
-    1 & x_1 & x_1^2 & \dots & x_1^n \\
-    1 & x_2 & x_2^2 & \dots & x_2^n \\
-    \vdots & \vdots & \vdots & \dots & \vdots \\
-    1 & x_m & x_m^2 & \dots & x_m^n
-    \end{bmatrix}
-    $$
+$$
+\mathbf{X} =
+\begin{bmatrix} 
+1 & x_1 & x_1^2 & \dots & x_1^n \\
+1 & x_2 & x_2^2 & \dots & x_2^n \\
+\vdots & \vdots & \vdots & \dots & \vdots \\
+1 & x_m & x_m^2 & \dots & x_m^n
+\end{bmatrix}
+$$
+
 
 
 
