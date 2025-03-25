@@ -79,5 +79,5 @@ Key hyperparameters include:
 ## 📌 Conclusion
 Random Forest is a powerful ensemble method that improves upon Decision Trees by reducing overfitting and increasing accuracy. It works by combining multiple weak learners (Decision Trees) through **bagging and feature randomness**, making it more robust and generalizable.
 
-👉 **Next Steps:** Implement Random Forest in [Python](/notebooks/01_Aprendizaje_Supervisado/02_Tree_Based_Models/02_Random_Forest.ipynb)!
+👉 **Next Steps:** Implement Random Forest in [Python](/notebooks/01_Supervised_Learning/02_Tree_Based_Models/02_Random_Forest.ipynb)!
 

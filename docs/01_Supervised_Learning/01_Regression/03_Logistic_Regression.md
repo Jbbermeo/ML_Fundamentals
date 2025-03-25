@@ -176,5 +176,5 @@ Logistic Regression is a powerful yet simple classification algorithm that works
 ✅ The cost function is derived using **Maximum Likelihood Estimation**.
 ✅ Other loss functions exist but Binary Cross-Entropy is standard for binary classification.
 
-👉 **Next Steps:** Implement Logistic Regression in [Python](/notebooks/01_Aprendizaje_Supervisado/01_Regression/03_Logistic_regression.ipynb)!
+👉 **Next Steps:** Implement Logistic Regression in [Python](/notebooks/01_Supervised_Learning/01_Regression/03_Logistic_regression.ipynb)!
 

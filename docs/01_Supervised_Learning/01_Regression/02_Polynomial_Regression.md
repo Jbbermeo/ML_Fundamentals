@@ -90,7 +90,7 @@ To evaluate the performance of Polynomial Regression, we use:
 ## 📌 Conclusion
 Polynomial Regression extends Linear Regression to handle non-linear relationships by introducing polynomial terms. It is a powerful tool when applied correctly but requires careful selection of the polynomial degree to balance bias and variance.
 
-👉 **Next Steps:** Implement Polynomial Regression in [Python](/notebooks/01_Aprendizaje_Supervisado/01_Regression/02_Polynomial_regression.ipynb)!
+👉 **Next Steps:** Implement Polynomial Regression in [Python](/notebooks/01_Supervised_Learning/01_Regression/02_Polynomial_regression.ipynb)!
 
 
 

@@ -204,5 +204,4 @@ Different variants of Naïve Bayes are suited for different types of data. Choos
 ## 📌 Conclusion
 Naïve Bayes is a simple yet powerful probabilistic classifier, particularly useful for **text classification** and **real-time predictions**. Despite its strong assumptions, it often performs well in practice.
 
-👉 **Next Steps:** Implement Naïve Bayes in Python and compare its performance with other classification models!
-
+👉 **Next Steps:** Implement Naïve Bayes in Python and compare its performance [here](/notebooks/01_Supervised_Learning/03_Probability_Based_Models/01_Naive_Bayes.ipynb)!

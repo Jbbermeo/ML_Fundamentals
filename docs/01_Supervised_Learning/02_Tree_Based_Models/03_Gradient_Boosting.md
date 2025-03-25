@@ -159,5 +159,5 @@ Gradient Boosting reduces errors efficiently by:
 ## 📌 Conclusion
 Gradient Boosting is a highly effective method for structured data problems, offering strong predictive power. However, it requires careful tuning to balance accuracy and overfitting.
 
-👉 **Next Steps:** Implement Gradient Boosting in [Python](/notebooks/01_Aprendizaje_Supervisado/02_Tree_Based_Models/03_Gradient_Boosting.ipynb)!
+👉 **Next Steps:** Implement Gradient Boosting in [Python](/notebooks/01_Supervised_Learning/02_Tree_Based_Models/03_Gradient_Boosting.ipynb)!
 

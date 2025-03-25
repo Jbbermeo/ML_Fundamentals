@@ -89,5 +89,5 @@ The dataset is projected onto the top $( d )$ discriminant directions, where $( 
 ## 📌 Conclusion
 Linear Discriminant Analysis is a powerful **classification and dimensionality reduction tool**, particularly useful when the assumptions of normality and equal covariance hold. It provides **interpretable linear boundaries** between classes and can improve model performance in classification tasks.
 
-👉 **Next Steps:** Implement LDA in Python and compare it with PCA for dimensionality reduction!
+👉 **Next Steps:** Implement LDA in Python [here](/notebooks/01_Supervised_Learning/03_Probability_Based_Models/02_LDA.ipynb)!
 

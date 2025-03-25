@@ -76,5 +76,5 @@ Linear Regression is a fundamental model that relies on algebraic principles to 
 
 ---
 
-**Next Steps:** Explore a Linear regression exercise [here](/notebooks/01_Aprendizaje_Supervisado/01_Regression/01_Linear_regression.ipynb)!
+**Next Steps:** Explore a Linear regression exercise [here](/notebooks/01_Supervised_Learning/01_Regression/01_Linear_regression.ipynb)!
 
