@@ -142,9 +142,9 @@ $\mathbf{x}_i \notin \bigcup_{k} C_k \Rightarrow \text{Noise}$
   - Look for the “elbow” point in the curve; this is a good estimate for `ε`.
 
 - **minPts** is usually set to:
-  \[
-  \text{minPts} \geq D + 1
-  \]
+
+  $\text{minPts} \geq D + 1$
+
   where `D` is the number of dimensions.
 
 ---

@@ -107,11 +107,11 @@ $D(A, B) = \frac{|A||B|}{|A| + |B|} \cdot \|\mu_A - \mu_B\|^2$
 
 At each step $t$, we merge the pair of clusters $(A, B)$ that minimizes $D(A, B)$:
 
-$(A^*, B^*) = \arg\min_{(A,B) \in \mathcal{C}^{(t)}} D(A, B)$
+$ (\hat{A}, \hat{B}) = \arg\min_{(A,B) \in C^{(t)}} D(A, B) $
 
 Update the cluster set:
 
-$\mathcal{C}^{(t+1)} = \left( \mathcal{C}^{(t)} \setminus \{A^*, B^*\} \right) \cup \{A^* \cup B^*\}$
+$C^{(t+1)} = \left( C^{(t)} \setminus \{\hat{A}, \hat{B}\} \right) \cup \{\hat{A} \cup \hat{B}\}$
 
 Repeat until only one cluster remains.
 
