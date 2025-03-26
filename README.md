@@ -10,8 +10,7 @@ This section is the **first chapter of the repository** and provides a thorough 
 
 ## 📁 docs/01_Supervised_Learning/
 
-├── [Introduction.md](docs/01_Supervised_Learning/Introduction.md)  
-  📘 *Introduction to Supervised Learning*
+├── [Introduction.md](docs/01_Supervised_Learning/Introduction.md) – 📘 *Introduction to Supervised Learning*
 
 ---
 
