@@ -176,4 +176,4 @@ t-SNE is a non-linear dimensionality reduction technique used mainly for visuali
 ---
 ## 📓 Next Step: Hands-On with tSNE
 
-Now that you've explored the mathematical foundation of tSNE, it's time to **see it in action**! [here](/notebooks/02_Unsupervised_Learning/02_DImensionality_Reduction/02_tSNE.ipynb)!
+Now that you've explored the mathematical foundation of tSNE, it's time to **see it in action**! [here](/notebooks/02_Unsupervised_Learning/02_Dimensionality_Reduction/02_tSNE.ipynb)!
