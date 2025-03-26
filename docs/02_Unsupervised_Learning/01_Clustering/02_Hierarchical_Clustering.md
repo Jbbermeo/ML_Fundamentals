@@ -107,7 +107,7 @@ $D(A, B) = \frac{|A||B|}{|A| + |B|} \cdot \|\mu_A - \mu_B\|^2$
 
 At each step $t$, we merge the pair of clusters $(A, B)$ that minimizes $D(A, B)$:
 
-$ (\hat{A}, \hat{B}) = \arg\min_{(A,B) \in C^{(t)}} D(A, B) $
+$(\hat{A}, \hat{B}) = \arg\min_{(A,B) \in C^{(t)}} D(A, B)$
 
 Update the cluster set:
 
