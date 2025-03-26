@@ -187,7 +187,7 @@ Its strengths lie in its robustness to outliers and flexibility in detecting non
 In practice, DBSCAN is widely used in geospatial analysis, anomaly detection, and any scenario where traditional clustering fails to capture the true structure of the data.
 
 
-## 📓 Next Step: Hands-On with Hierarchical clustering
+## 📓 Next Step: Hands-On with DBSCAN
 
 Now that you've explored the mathematical foundation of DBSCAN, it's time to **see it in action**! [here](/notebooks/02_Unsupervised_Learning/01_Clustering/03_DBSCAN.ipynb)!
 
