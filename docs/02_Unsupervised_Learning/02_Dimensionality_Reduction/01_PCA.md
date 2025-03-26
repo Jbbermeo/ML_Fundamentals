@@ -135,5 +135,5 @@ PCA is a powerful tool to reduce data dimensionality while preserving variance. 
 
 ## 📓 Next Step: Hands-On with PCA
 
-Now that you've explored the mathematical foundation of PCA, it's time to **see it in action**! [here](/notebooks/02_Unsupervised_Learning/02_Dimensionality_Reduction/01_PCA.ipynb)!
+Now that you've explored the mathematical foundation of PCA, it's time to **see it in action**! [here](/notebooks/02_Unsupervised_Learning/02_DImensionality_Reduction/01_PCA.ipynb)!
 
