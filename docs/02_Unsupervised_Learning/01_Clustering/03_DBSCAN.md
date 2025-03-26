@@ -42,7 +42,8 @@ Let $\mathbf{x}_i, \mathbf{x}_j \in \mathbb{R}^d$ be two data points in a $d$-di
 
 The most common distance metric used in DBSCAN is the **Euclidean distance**:
 
-$\text{dist}(\mathbf{x}_i,\mathbf{x}_j) = \sqrt{\sum_{k=1}^{d}(x_{ik}-x_{jk})^2}$
+$\text{dist}(x_i, x_j) = \sqrt{\sum_{k=1}^d (x_{ik} - x_{jk}) \cdot (x_{ik} - x_{jk})}$
+
 
 📌 **Intuition**: This measures the "straight-line" distance between two points in Euclidean space. You can also use other metrics like Manhattan or cosine distance depending on the data.
 
@@ -72,10 +73,10 @@ $|\mathcal{N}_\varepsilon(\mathbf{x}_i)| \geq \text{minPts}$
 
 Point $\mathbf{x}_j$ is **directly density-reachable** from $\mathbf{x}_i$ if:
 
-- $\mathbf{x}_j \in N_\varepsilon(\mathbf{x}_i)$
+- $x_{j} \in N_\varepsilon(x_{i})$
 - $\mathbf{x}_i$ is a **core point**
 
-$\mathbf{x}_j \in \mathcal{N}_\varepsilon(\mathbf{x}_i) \quad \text{and} \quad |\mathcal{N}_\varepsilon(\mathbf{x}_i)| \geq \text{minPts}$
+$x_{j} \in N_\varepsilon(x_{i}) \quad \text{and} \quad |N_\varepsilon(x_{i})| \geq \text{minPts}$
 
 📌 **Intuition**: This establishes a one-step density connection. You must be in the ε-neighborhood of a dense (core) point.
 
@@ -118,7 +119,7 @@ A **cluster** $C \subseteq \mathbb{R}^d$ satisfies:
 
 Any point that is **not density-reachable** from any core point is labeled as **noise** or **an outlier**.
 
-$\mathbf{x}_i\notin\bigcup_{k} C_k\Rightarrow\text{Noise}$
+$x_{i}\notin\bigcup_{k} C_k\Rightarrow\text{Noise}$
 
 📌 **Intuition**: These are isolated points or lie in regions with density below the threshold.
 
