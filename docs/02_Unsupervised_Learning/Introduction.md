@@ -9,7 +9,7 @@ Unsupervised learning is a branch of machine learning that deals with **unlabele
 ✅ **Common goals**: **Clustering**, **Dimensionality Reduction**, **Anomaly Detection**, and **Association Rule Mining**.
 
 🖼️ **Example:**
-![Unsupervised Learning Example](https://upload.wikimedia.org/wikipedia/commons/7/7f/K_Means_Example_Step_4.png)  
+![Unsupervised Learning Example](https://media.datacamp.com/legacy/v1725630538/image_9c867e067e.png)  
 *Unsupervised learning example: Clustering data points based on similarity without labels.*
 
 ---
@@ -93,7 +93,7 @@ Used to find relationships between variables in large datasets. Frequently used 
 - **FP-Growth** (Faster, more memory-efficient than Apriori)
 
 🖼️ **Visualization:**
-![Association Rules](https://miro.medium.com/v2/resize:fit:720/format:webp/1*YoJPwe9w4SnBt4PoSglI_w.png)  
+![Association Rules](https://miro.medium.com/v2/resize:fit:1200/1*4yFCbNwp0gGdGR5KbquFHA.png)  
 *Association rules: uncovering co-occurrence patterns.*
 
 ---
