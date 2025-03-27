@@ -135,3 +135,7 @@ Rules are filtered by **minimum confidence** and **minimum lift** thresholds.
 
 ## 🏁 Summary
 The Apriori algorithm is a foundational tool in unsupervised learning for discovering item associations in transactional datasets. By using support, confidence, and lift, it helps businesses and analysts uncover meaningful relationships and patterns in large-scale data.
+
+## 📓 Next Step: Hands-On with Apriori
+
+Now that you've explored the mathematical foundation of Apriori, it's time to **see it in action**! [here](/notebooks/02_Unsupervised_Learning/03_Association_Rules/01_Apriori.ipynb)!

@@ -134,4 +134,7 @@ The FP-Growth algorithm mines all such $X$ by:
 
 The FP-Growth algorithm is a powerful and efficient method for mining frequent itemsets without generating candidate sets. Its use of a compact FP-tree structure enables it to handle large-scale datasets better than Apriori. By understanding the recursive pattern-growth strategy, one can uncover valuable associations in transactional data.
 
-👉 **Next up:** Learn how to implement FP-Growth using libraries like `mlxtend` or `PyFIM` in Python!
+## 📓 Next Step: Hands-On with FPGrowth
+
+Now that you've explored the mathematical foundation of FPGrowth, it's time to **see it in action**! [here](/notebooks/02_Unsupervised_Learning/03_Association_Rules/01_FPGrowth.ipynb)!
+
