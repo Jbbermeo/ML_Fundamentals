@@ -136,5 +136,5 @@ The FP-Growth algorithm is a powerful and efficient method for mining frequent i
 
 ## 📓 Next Step: Hands-On with FPGrowth
 
-Now that you've explored the mathematical foundation of FPGrowth, it's time to **see it in action**! [here](/notebooks/02_Unsupervised_Learning/03_Association_Rules/01_FPGrowth.ipynb)!
+Now that you've explored the mathematical foundation of FPGrowth, it's time to **see it in action**! [here](/notebooks/02_Unsupervised_Learning/03_Association_Rules/02_FPGrowth.ipynb)!
 

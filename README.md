@@ -1,4 +1,4 @@
-# 📘 Supervised Learning (Part I of the Repository)
+# 📘 Supervised Learning
 
 ## 🧠 What is Supervised Learning?
 
@@ -52,8 +52,6 @@ This section is the **first chapter of the repository** and provides a thorough 
 - [03_Regularization.md](docs/01_Supervised_Learning/06_Model_Evaluation/03_Regularization.md) – Regularization  
 - [04_Hyperparameter_Tuning.md](docs/01_Supervised_Learning/06_Model_Evaluation/04_Hyperparameter_Tuning.md) – Hyperparameter Tuning  
 
-
-
 ---
 
 
@@ -67,3 +65,58 @@ You now have a solid foundation on:
 - When and why to use each approach
 
 👉 Next up: **Unsupervised Learning** — where no labels are required, and structure must be discovered from raw data.
+
+# 📘 Unsupervised Learning
+
+## 🧠 What is Unsupervised Learning?
+
+Unsupervised Learning is a core paradigm of machine learning where models are trained **without labeled data**. Instead of learning from known outputs, these algorithms seek to identify **inherent patterns, groupings, or structures** within the data.
+
+This section is the **second chapter of the repository** and focuses on the theory and application of unsupervised methods. It covers a wide range of techniques, from clustering and dimensionality reduction to anomaly detection and association rule mining, along with detailed explanations, mathematical formulations, and use cases.
+
+---
+
+## 📁 docs/02_Unsupervised_Learning/
+
+├── [Introduction.md](docs/02_Unsupervised_Learning/Introduction.md) – 📘 *Introduction to Unsupervised Learning*
+
+---
+
+### 📂 01_Clustering/
+- [01_KMeans.md](docs/02_Unsupervised_Learning/01_Clustering/01_KMeans.md) – K-Means Clustering  
+- [02_Hierarchical.md](docs/02_Unsupervised_Learning/01_Clustering/02_Hierarchical_Clustering.md) – Hierarchical Clustering  
+- [03_DBSCAN.md](docs/02_Unsupervised_Learning/01_Clustering/03_DBSCAN.md) – DBSCAN  
+
+---
+
+### 📂 02_Dimensionality_Reduction/
+- [01_PCA.md](docs/02_Unsupervised_Learning/02_Dimensionality_Reduction/01_PCA.md) – Principal Component Analysis (PCA)  
+- [02_tSNE.md](docs/02_Unsupervised_Learning/02_Dimensionality_Reduction/02_tSNE.md) – t-SNE  
+
+---
+
+### 📂 03_Association_Rules/
+- [01_Apriori.md](docs/02_Unsupervised_Learning/03_Association_Rules/01_Apriori.md) – Apriori Algorithm  
+- [02_FPGrowth.md](docs/02_Unsupervised_Learning/03_Association_Rules/02_FPGrowth.md) – FP-Growth Algorithm  
+
+---
+
+### 📂 04_Anomaly_Detection/
+- [01_Isolation_Forest.md](docs/02_Unsupervised_Learning/04_Anomaly_Detection/01_Isolation_Forest.md) – Isolation Forest  
+- [02_OneClass_SVM.md](docs/02_Unsupervised_Learning/04_Anomaly_Detection/02_OneClass_SVM.md) – One-Class SVM  
+
+---
+
+### 📂 05_Model_Evaluation/
+- [01_Evaluation_Metrics.md](docs/02_Unsupervised_Learning/05_Model_Evaluation/01_Evaluation_Metrics.md) – Evaluation Metrics  
+
+---
+
+## ✅ Closing This Chapter
+
+This concludes the **Unsupervised Learning** section of the repository.
+
+You now have a comprehensive understanding of:
+- How to uncover hidden patterns in unlabeled data
+- Core techniques like clustering, dimensionality reduction, and anomaly detection
+- How to evaluate unsupervised models without relying on labeled outcomes
