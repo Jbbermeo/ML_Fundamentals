@@ -33,7 +33,7 @@ This value $( z )$ is a single scalar and represents how much evidence there is 
 ### 3️⃣ Activation Function
 The perceptron then applies a **step function** (also known as the Heaviside function):
 
-$\hat{y} = \begin{cases} 1 & \text{if } z \geq 0 \\ 0 & \text{otherwise} \end{cases}$
+$$\hat{y} = \begin{cases} 1 & \text{if } z \geq 0 \\ 0 & \text{otherwise} \end{cases}$$
 
 This function outputs a binary prediction:
 - $( \hat{y} = 1 )$: input is classified as belonging to the positive class
@@ -71,8 +71,7 @@ $\Delta w_j = \eta (y_i - \hat{y}_i) x_{ij}$
 
 - For the bias:
 
-$\Delta b = \eta (y_i - \hat{y}_i)$
-
+$$\Delta b = \eta (y_i - \hat{y}_i)$$
 
 These updates push the decision boundary **toward the misclassified point**, nudging the model to improve on the error it just made.
 
