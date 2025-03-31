@@ -99,7 +99,7 @@ The coordinates $\mathbf{y}_1, \dots, \mathbf{y}_n$ are initialized randomly and
 
 The gradient of the KL divergence w.r.t. $\mathbf{y}_i$ is:
 
-$\frac{\partial \text{KL}}{\partial \mathbf{y}_i} = 4 \sum_j (p_{ij} - q_{ij}) (1 + \|\mathbf{y}_i - \mathbf{y}_j\|^2)^{-1} (\mathbf{y}_i - \mathbf{y}_j)$
+$`\frac{\partial \text{KL}}{\partial \mathbf{y}_i} = 4 \sum_j (p_{ij} - q_{ij}) (1 + \|\mathbf{y}_i - \mathbf{y}_j\|^2)^{-1} (\mathbf{y}_i - \mathbf{y}_j)`$
 
 🔍 **Intuition:**  
 This moves $\mathbf{y}_i$ closer to $\mathbf{y}_j$ when $p_{ij} > q_{ij}$ \), and pushes them apart when $p_{ij} < q_{ij}$.
